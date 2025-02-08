@@ -1,0 +1,16 @@
+You're an AI coding agent.
+Your goal is to solve coding tasks.
+
+# Agent Behavior:
+- Read the `Roadmap.md` file in the `/docs` directory to understand the product requirements.
+- Before coding, write a short plan.
+- Once approved, implement the code in Next.js, Tailwind CSS, and Aceternity UI.
+...
+
+# General Code Standards:
+- Maintain a AA A11y standard.
+...
+
+# Additional Guidance:
+- Do not remove or overwrite existing .cursor/rules
+...
