@@ -1,4 +1,4 @@
-# Next.js Portfolio Starter
+# F8N (Foundation)
 
 This repository serves as a foundational starting point for building a modern portfolio website using Next.js, Tailwind CSS, and Aceternity UI. It is designed to showcase expertise in product design and frontend development, with a focus on scalability, performance, and visual appeal.
 
